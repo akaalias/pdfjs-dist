@@ -28331,8 +28331,10 @@
                                 id: params.id,
                                 rect: this.rectangle,
                                 subtype: params.subtype,
-                                quadPoints: quadPoints
+                                quadPoints: quadPoints,
+                                highlightedText: ""
                             };
+
                         }
 
                         _createClass(Annotation, [{
