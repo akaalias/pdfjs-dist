@@ -553,7 +553,7 @@
                 }
 
                 function deprecated(details) {
-                    console.log('Deprecated API usage: ' + details);
+                    // console.log('Deprecated API usage: ' + details);
                 }
 
                 function unreachable(msg) {
